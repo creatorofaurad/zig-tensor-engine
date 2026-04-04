@@ -948,3 +948,5 @@ export fn kessler_infer(price: f32, time_val: f32, volume: f32, spread: f32) f32
 // commit step 13: 657
 
 // commit step 14: 632
+
+// commit step 17: 407
