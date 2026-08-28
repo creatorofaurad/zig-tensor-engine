@@ -6,3 +6,4 @@
 - **Raw CPU Matrix Math**: Custom SIMD-vectorized dense layers running directly on hardware registers.
 - **Autograd & Backpropagation**: Native implementation of backward gradient accumulation and Adam optimizers without C++ or Python runtime wrappers.
 - **Continuous Action Policy Support**: Designed to train and infer reinforcement learning policies (TD3/DDPG) in sub-microsecond latency loops.
+<!-- Zig Tensor Engine V1 -->
