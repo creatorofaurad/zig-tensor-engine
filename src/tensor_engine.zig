@@ -930,3 +930,4 @@ export fn kessler_infer(price: f32, time_val: f32, volume: f32, spread: f32) f32
     return mean.data[0]; 
 }
 // dense layer forward
+// autograd tape
