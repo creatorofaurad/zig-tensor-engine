@@ -1,0 +1,8 @@
+# ⚡ ZIG TENSOR ENGINE
+> **A Lightweight, Zero-Dependency PyTorch & Autograd Alternative in Native Zig**
+> *Zero CUDA Bloat // Zero Python Overhead // Bare-Metal SIMD Matrix Multiplication & Backward Passes*
+
+## Features
+- **Raw CPU Matrix Math**: Custom SIMD-vectorized dense layers running directly on hardware registers.
+- **Autograd & Backpropagation**: Native implementation of backward gradient accumulation and Adam optimizers without C++ or Python runtime wrappers.
+- **Continuous Action Policy Support**: Designed to train and infer reinforcement learning policies (TD3/DDPG) in sub-microsecond latency loops.
