@@ -929,3 +929,4 @@ export fn kessler_infer(price: f32, time_val: f32, volume: f32, spread: f32) f32
     // Return action[0] which corresponds to spoof_bid or market direction
     return mean.data[0]; 
 }
+// dense layer forward
